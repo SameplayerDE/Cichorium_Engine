@@ -1,6 +1,6 @@
 ﻿namespace Cichorium
 {
-    public class CichoriumComponent
+    public class Component
     {
         
     }
